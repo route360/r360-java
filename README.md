@@ -1,3 +1,5 @@
+# Important notice: Route360° is now called Targomo. The libraries here will no longer be maintained. We will keep them here for legacy purposes but for future use please visit: [github.com/targomo/targomo-java](github.com/targomo/targomo-java)
+
 # r360-java
 Java Client API for Route360° web service
 
